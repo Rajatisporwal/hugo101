@@ -1,4 +1,4 @@
 baseURL = "https://portio.netlify.app/"
 languageCode = "en-us"
-title = "Hugo 101"
+title = "Portio Theme"
 theme = "hugo-portio-theme"
