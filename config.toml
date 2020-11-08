@@ -1,4 +1,4 @@
-baseURL = "https://portio.netlify.app/"
+baseURL = "https://rajatporwal.netlify.app"
 languageCode = "en-us"
 title = "Portio Theme"
-theme = "hugo-portio-theme"
+theme = "portio-hugo"
